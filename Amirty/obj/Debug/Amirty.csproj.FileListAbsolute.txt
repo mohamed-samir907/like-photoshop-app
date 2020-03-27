@@ -1,0 +1,18 @@
+E:\Computer Cources\C#\Amirty\Amirty\bin\Debug\Amirty.exe.config
+E:\Computer Cources\C#\Amirty\Amirty\bin\Debug\Amirty.exe
+E:\Computer Cources\C#\Amirty\Amirty\bin\Debug\Amirty.pdb
+E:\Computer Cources\C#\Amirty\Amirty\obj\Debug\Amirty.csprojResolveAssemblyReference.cache
+E:\Computer Cources\C#\Amirty\Amirty\obj\Debug\Amirty.Amiraty.resources
+E:\Computer Cources\C#\Amirty\Amirty\obj\Debug\Amirty.Properties.Resources.resources
+E:\Computer Cources\C#\Amirty\Amirty\obj\Debug\Amirty.csproj.GenerateResource.Cache
+E:\Computer Cources\C#\Amirty\Amirty\obj\Debug\Amirty.exe
+E:\Computer Cources\C#\Amirty\Amirty\obj\Debug\Amirty.pdb
+D:\Computer Courses\C#\Amirty - Copy\Amirty\bin\Debug\Amirty.exe.config
+D:\Computer Courses\C#\Amirty - Copy\Amirty\obj\Debug\Amirty.exe
+D:\Computer Courses\C#\Amirty - Copy\Amirty\obj\Debug\Amirty.pdb
+D:\Computer Courses\C#\Amirty - Copy\Amirty\bin\Debug\Amirty.exe
+D:\Computer Courses\C#\Amirty - Copy\Amirty\bin\Debug\Amirty.pdb
+D:\Computer Courses\C#\Amirty - Copy\Amirty\obj\Debug\Amirty.csprojResolveAssemblyReference.cache
+D:\Computer Courses\C#\Amirty - Copy\Amirty\obj\Debug\Amirty.Amiraty.resources
+D:\Computer Courses\C#\Amirty - Copy\Amirty\obj\Debug\Amirty.Properties.Resources.resources
+D:\Computer Courses\C#\Amirty - Copy\Amirty\obj\Debug\Amirty.csproj.GenerateResource.Cache
